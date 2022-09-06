@@ -1,0 +1,4 @@
+[submodule "external/wRATter"]
+	path = external/wRATter
+	url = git@github.com:P3tru/wRATter.git
+	branch = v2
